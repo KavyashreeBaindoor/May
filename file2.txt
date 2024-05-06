@@ -7,3 +7,6 @@ india
 =======
 karnataka is one of the best state in india.
 >>>>>>> Stashed changes
+
+
+feature branch
