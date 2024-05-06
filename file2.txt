@@ -1,5 +1,9 @@
 kavyashree
 dddd
 
+<<<<<<< Updated upstream
 
 india
+=======
+karnataka is one of the best state in india.
+>>>>>>> Stashed changes
